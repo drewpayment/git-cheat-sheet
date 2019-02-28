@@ -214,13 +214,13 @@ git config --global core.excludesfile ~/.gitignore
 
 #### Global username & email
 ```shell
-git config --global user.name "Jakub Pawlowicz"
+git config --global user.name "Drew Payment"
 git config --global user.email '<email>'
 ```
 
 #### Local username & email
 ```shell
-git config user.name "Jakub Pawlowicz"
+git config user.name "Drew Payment"
 git config user.email '<email>'
 ```
 
